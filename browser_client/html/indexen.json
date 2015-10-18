@@ -1,0 +1,192 @@
+<! DOCTYPE html>
+<Html lang = "en">
+<Head>
+  <Meta charset = "utf-8">
+  <Title> Bootstrap 3, from LayoutIt! </ Title>
+  <Meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+  <Meta name = "description" content = "">
+  <Meta name = "author" content = "">
+
+<! - Link rel = "stylesheet / less" href = "less / bootstrap.less" type = "text / css" / ->
+<! - Link rel = "stylesheet / less" href = "less / responsive.less" type = "text / css" / ->
+<! - Script src = "js / less-1.3.3.min.js"> </ script ->
+<! - Append '#! Watch' to the browser URL, then refresh the page. ->
+
+<Link href = "css / bootstrap.min.css" rel = "stylesheet">
+<Link href = "css / style.css" rel = "stylesheet">
+
+  <! - HTML5 shim, for IE6-8 support of HTML5 elements ->
+  <! - [If lt IE 9]>
+    <Script src = "js / html5shiv.js"> </ script>
+  <! [Endif] ->
+<! -
+JSON:
+{
+"HeaderText", {
+{"En_US", "Political Orientation Quiz"},
+{"Uk_UA", "Test political preferences"},
+{"Ru_RU", "Test polytycheskyh ubezhdenyy"},
+}
+"NewsHeaderText", {
+{"En_US", "News of the Project"},
+{"Uk_UA", "Project News"},
+{"Ru_RU", "Project News"},
+} Hand destruction. Nothing not give, nykoho not bless nykoho not save. Only rub. Completely. In pыl. "- IZ anyme phrase" Densetsu no Yuusha no Densetsu
+};
+
+function printInternationalText ("HeaderText", "uk_UA")
+->
+
+  <! - Fav and touch icons ->
+  <Link rel = "apple-touch-icon-precomposed" sizes = "144x144" href = "img / apple-touch-icon-144-precomposed.png">
+  <Link rel = "apple-touch-icon-precomposed" sizes = "114x114" href = "img / apple-touch-icon-114-precomposed.png">
+  <Link rel = "apple-touch-icon-precomposed" sizes = "72x72" href = "img / apple-touch-icon-72-precomposed.png">
+  <Link rel = "apple-touch-icon-precomposed" href = "img / apple-touch-icon-57-precomposed.png">
+  <Link rel = "shortcut icon" href = "img / favicon.png">
+  
+<Script type = "text / javascript" src = "js / jquery.min.js"> </ script>
+<Script type = "text / javascript" src = "js / bootstrap.min.js"> </ script>
+<Script type = "text / javascript" src = "js / scripts.js"> </ script>
+</ Head>
+<Body>
+<Div class = "container">
+<Div class = "row clearfix">
+<Div class = "col-md-10 column">
+<H3 class = "text-primary">
+<Strong> Test political preferences </ strong>
+</ H3>
+</ Div>
+<Div class = "col-md-2 column">
+<Div class = "btn-group">
+<Button class = "btn btn-default"> <strong> RU </ strong> </ button> <button data-toggle = "dropdown" class = "btn btn-default dropdown-toggle"> <span class = "caret "> </ span> </ button>
+<Ul class = "dropdown-menu">
+<Li>
+<a href="#"> RU </a>
+</ Li>
+<Li class = "disabled">
+<a href="#"> ENG </a>
+</ Li>
+<Li class = "disabled">
+<a href="#"> UK </a>
+</ Li>
+</ Ul>
+</ Div>
+</ Div>
+</ Div>
+<Div class = "row clearfix">
+<Div class = "col-md-4 column">
+<H2>
+<Strong> About </ strong>
+</ H2>
+<P>
+Here we are, born to be kings
+<P>
+We're the princes of the universe
+<P>
+Here we belong, fighting to survive
+<P>
+In a world with the darkest powers, heh
+</ P>
+<P>
+<a class="btn" href="#"> Learn more »</a>
+</ P>
+</ Div>
+<Div class = "col-md-4 column">
+<H2>
+<Strong> Complete survey (anonymously) </ strong>
+</ H2>
+<P>
+Complete anonymous survey - no person will be aware of your political affiliation
+</ P>
+<P>
+<a class="btn" href="#"> Complete survey (anonymously) »</a>
+</ P>
+</ Div>
+<Div class = "col-md-4 column">
+<H2>
+<Strong> Complete re-survey (registered user) </ strong>
+</ H2>
+<P>
+Polls for registered users (ability to ............)
+</ P>
+<P>
+<a class="btn" href="#"> Complete survey (registered user) »</a>
+</ P>
+</ Div>
+</ Div>
+<Div class = "row clearfix">
+<Div class = "col-md-12 column">
+<Div class = "carousel slide" id = "carousel-52196">
+<Ol class = "carousel-indicators">
+<Li data-slide-to = "0" data-target = "# carousel-52196">
+</ Li>
+<Li data-slide-to = "1" data-target = "# carousel-52196">
+</ Li>
+<Li data-slide-to = "2" data-target = "# carousel-52196" class = "active">
+</ Li>
+</ Ol>
+<Div class = "carousel-inner">
+<Div class = "item">
+<Img alt = "" src = "1.png">
+<Div class = "carousel-caption">
+<H4>
+First
+</ H4>
+<P>
+NEWS - ABOUT OUR Novik-TEST'u
+</ P>
+</ Div>
+</ Div>
+<Div class = "item">
+<Img alt = "" src = "2.png">
+<Div class = "carousel-caption">
+<H4>
+The second
+</ H4>
+<P>
+Applications for correction of passage for the poll (for registered users)
+</ P>
+</ Div>
+</ Div>
+<Div class = "item active">
+<Img alt = "" src = "3.png">
+<Div class = "carousel-caption">
+<H4>
+Third
+</ H4>
+<P>
+Statistics survey (number of anonymous / registered playthroughs survey) number of new questions for the survey - (icons for those that have passed survey)
+</ P>
+</ Div>
+</ Div>
+</ Div> <a class="left carousel-control" href="#carousel-52196" data-slide="prev"> <span class = "glyphicon glyphicon-chevron-left"> </ span> </ a > <a class="right carousel-control" href="#carousel-52196" data-slide="next"> <span class = "glyphicon glyphicon-chevron-right"> </ span> </a>
+</ Div>
+</ Div>
+</ Div>
+<Div class = "row clearfix">
+<Div class = "col-md-6 column">
+<H2>
+Contact us
+</ H2>
+<P>
+Contacts -
+</ P>
+<P>
+<a class="btn" href="#"> View details »</a>
+</ P>
+</ Div>
+<Div class = "col-md-6 column">
+<H2>
+Interesting links
+</ H2>
+<P>
+List of links
+</ P>
+<P>
+<a class="btn" href="#"> View details »</a>
+</ P>
+</ Div>
+</ Div>
+</ Div>
+</ Body>
+</ Html>

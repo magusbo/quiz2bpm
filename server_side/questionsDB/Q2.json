@@ -1,0 +1,56 @@
+{
+  "questionId": "q2",
+  "dateIntroduced":       "2015-08-14 16:53:00.000",
+  "introducedByExpert":   "bberezka",
+  "isObsolete":           false,
+  "dateValidUntil":       "2025-12-31 23:59:59.999",
+  "obsoletedByExpert":    null,
+  "lastModifiedByExpert": "bberezka",
+  "dateLastModified":     "2015-08-14 16:53:00.000",
+  "timesIncludedInQuiz":  0,
+  "questionText_en_EN":   "What recommendation can be read on the packaging of certain drugs?",
+  "questionText_uk_UA":   "Яку рекомендацію можна прочитати на упаковках деяких ліків?",
+  "questionText_ru_RU":   "Какую рекомендацию можно прочесть на упаковках некоторых лекарств?",
+  "answer": [
+    {
+      
+        "text_en_EN":  "Take in the dark",
+        "text_uk_UA":  "Приймати в темряві",
+        "text_ru_RU":  "Принимать в темноте",
+        "weight":      [  0.11,  0.43 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Keep in the dark",
+        "text_uk_UA":  "Зберігати в Темряві",
+        "text_ru_RU":  "Хранить в Темноте",
+        "weight":      [  0.35,  0.67 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Opened in the Darkness",
+        "text_uk_UA":  "Розкривати в Темряві",
+        "text_ru_RU":  "Вскрывать в Темноте",
+        "weight":      [  -0.55, -0.70 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Buy in Darkness",
+        "text_uk_UA":  "Купувати в Темряві",
+        "text_ru_RU":  "Покупать в Темноте",
+        "weight":      [  0.30,  0.28 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Throw in the dark",
+        "text_uk_UA":  "Викидати у темряві",
+        "text_ru_RU":  "Выкидывать в темноте",
+        "weight":      [ -0.12,  0.68 ],
+        "timesChosen": 0
+    }
+    ]
+}

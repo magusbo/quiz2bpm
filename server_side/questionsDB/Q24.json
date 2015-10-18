@@ -1,0 +1,57 @@
+
+{
+  "questionId": "q24",
+  "dateIntroduced":       "2015-08-14 16:53:00.000",
+  "introducedByExpert":   "bberezka",
+  "isObsolete":           false,
+  "dateValidUntil":       "2025-12-31 23:59:59.999",
+  "obsoletedByExpert":    null,
+  "lastModifiedByExpert": "bberezka",
+  "dateLastModified":     "2015-08-14 16:53:00.000",
+  "timesIncludedInQuiz":  0,
+  "questionText_en_EN":   "How stingy definition of well-known proverb describes the famine?",
+  "questionText_uk_UA":   "Яким скупим визначенням відома приказка характеризує голод?",
+  "questionText_ru_RU":   "Каким скупым определением известная поговорка характеризует голод?",
+  "answer": [
+    {
+      
+        "text_en_EN":  "not aunt",
+        "text_uk_UA":  "не тітка",
+        "text_ru_RU":  "Не тётка",
+        "weight":      [  0.15,  0.33 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Not chick",
+        "text_uk_UA":  "Не телиця",
+        "text_ru_RU":  "Не тёлка",
+        "weight":      [ -0.35,  0.67 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Not tёscha",
+        "text_uk_UA":  "Не теща",
+        "text_ru_RU":  "Не тёща",
+        "weight":      [  -0.75, -0.10 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Not granny",
+        "text_uk_UA":  "Не бабця",
+        "text_ru_RU":  "Не бабулька",
+        "weight":      [  0.00,  0.68 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Beauty",
+        "text_uk_UA":  "Красуня",
+        "text_ru_RU":  "Красавица",
+        "weight":      [ -0.99,  0.17 ],
+        "timesChosen": 0
+    }
+    ]
+}

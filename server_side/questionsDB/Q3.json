@@ -1,0 +1,57 @@
+{
+  "questionId": "q3",
+  "dateIntroduced":       "2015-08-14 16:53:00.000",
+  "introducedByExpert":   "bberezka",
+  "isObsolete":           false,
+  "dateValidUntil":       "2025-12-31 23:59:59.999",
+  "obsoletedByExpert":    null,
+  "lastModifiedByExpert": "bberezka",
+  "dateLastModified":     "2015-08-14 16:53:00.000",
+  "timesIncludedInQuiz":  0,
+  "questionText_en_EN":   "What shook Musketeers movie with Mikhail Boyarsky?",
+  "questionText_uk_UA":   "Чим похитували мушкетери у фільмі за участю Михайла Боярського?",
+  "questionText_ru_RU":   "Чем покачивали мушкетёры в фильме с участием Михаила Боярского?",
+  "answer": [
+    {
+      
+        "text_en_EN":  "Feathers",
+        "text_uk_UA":  "Пір'ям",
+        "text_ru_RU":  "Перьями",
+        "weight":      [  0.15,  0.33 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Smallsword",
+        "text_uk_UA":  "Шпагами",
+        "text_ru_RU":  "Шпагами",
+        "weight":      [ -0.35,  0.67 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Heads",
+        "text_uk_UA":  "Головами",
+        "text_ru_RU":  "Головами",
+        "weight":      [  -0.75, -0.10 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Haunch",
+        "text_uk_UA":  "Cтегнами",
+        "text_ru_RU":  "Бедрами",
+        "weight":      [  0.00,  0.68 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Hands",
+        "text_uk_UA":  "Руками",
+        "text_ru_RU":  "Руками",
+        "weight":      [ -0.99,  0.17 ],
+        "timesChosen": 0
+    }
+    ]
+}
+

@@ -1,0 +1,56 @@
+{
+  "questionId": "q5",
+  "dateIntroduced":       "2015-08-14 16:53:00.000",
+  "introducedByExpert":   "bberezka",
+  "isObsolete":           false,
+  "dateValidUntil":       "2025-12-31 23:59:59.999",
+  "obsoletedByExpert":    null,
+  "lastModifiedByExpert": "bberezka",
+  "dateLastModified":     "2015-08-14 16:53:00.000",
+  "timesIncludedInQuiz":  0,
+  "questionText_en_EN":   "What were the heroes gone with in famous Hollywood melodrama?",
+  "questionText_uk_UA":   "Чим були понесені герої відомої голлівудської мелодрами? ",
+  "questionText_ru_RU":   "Чем были унесены герои известной голливудской мелодрамы?",
+  "answer": [
+    {
+      
+        "text_en_EN":  "Wind",
+        "text_uk_UA":  "Вітром",
+        "text_ru_RU":  "Ветром",
+        "weight":      [  0.15,  0.33 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Stretcher",
+        "text_uk_UA":  "Носилками",
+        "text_ru_RU":  "Носилками",
+        "weight":      [ -0.35,  0.67 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Militia",
+        "text_uk_UA":  "Міліція",
+        "text_ru_RU":  "Милиция",
+        "weight":      [  -0.75, -0.10 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Flow",
+        "text_uk_UA":  "Потоком",
+        "text_ru_RU":  "Потоком",
+        "weight":      [  0.00,  0.68 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Passage",
+        "text_uk_UA":  "Плином",
+        "text_ru_RU":  "Течением",
+        "weight":      [ -0.99,  0.17 ],
+        "timesChosen": 0
+    }
+    ]
+}

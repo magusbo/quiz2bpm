@@ -1,0 +1,57 @@
+{
+  "questionId": "q1",
+  "dateIntroduced":       "2015-08-14 16:53:00.000",
+  "introducedByExpert":   "bberezka",
+  "isObsolete":           false,
+  "dateValidUntil":       "2025-12-31 23:59:59.999",
+  "obsoletedByExpert":    null,
+  "lastModifiedByExpert": "bberezka",
+  "dateLastModified":     "2015-08-14 16:53:00.000",
+  "timesIncludedInQuiz":  0,
+  "questionText_en_EN":   "What transport does aliens arrive to us on?",
+  "questionText_uk_UA":   "На чому до нас прилітають інопланетяни? ",
+  "questionText_ru_RU":   "На чем к нам прилетают инопланетяне?",
+  "answer": [
+    {
+      
+        "text_en_EN":  "Plate ",
+        "text_uk_UA":  "Тарілка",
+        "text_ru_RU":  "Тарелка",
+        "weight":      [  0.15,  0.33 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Bowl",
+        "text_uk_UA":  "Миска",
+        "text_ru_RU":  "Миска",
+        "weight":      [ -0.35,  0.67 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Pelvis",
+        "text_uk_UA":  "Таз",
+        "text_ru_RU":  "Таз",
+        "weight":      [  -0.75, -0.10 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Vase",
+        "text_uk_UA":  "Ваза",
+        "text_ru_RU":  "Ваза",
+        "weight":      [  0.00,  0.68 ],
+        "timesChosen": 0
+    },
+    {
+      
+        "text_en_EN":  "Toilet",
+        "text_uk_UA":  "Унітаз",
+        "text_ru_RU":  "Унитаз",
+        "weight":      [ -0.99,  0.17 ],
+        "timesChosen": 0
+    }
+    ]
+}
+
